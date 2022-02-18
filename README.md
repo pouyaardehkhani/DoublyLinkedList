@@ -1,4 +1,4 @@
-# DoublyLinkedList
+# DoublyLinkedList ![license](https://img.shields.io/github/license/pouyaardehkhani/DoublyLinkedList.svg)
 Implementation of Doubly LinkedList using java.
 
 Consider the **DoublyLinkedList<E>** two-way linkedlist class, which has two Node<E> **head** and **tail** references at the beginning and end of the list. Each node has **data attributes of type E** and two Node<E> references named **prev** and **next** to refer to before and after nodes.
